@@ -1,1 +1,2 @@
-Pierwszy commit
+- Maksymilian Boltruczuk- Bartosz Buwaj 
+- Karol Kolesinski 
