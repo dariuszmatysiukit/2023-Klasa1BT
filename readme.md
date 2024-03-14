@@ -1,1 +1,1 @@
-Pierwszy commit
+- Maksymilian Boltruczuk
