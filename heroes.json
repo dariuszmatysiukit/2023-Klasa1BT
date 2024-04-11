@@ -11,19 +11,5 @@
         ]
     }
 
-},
-
-{
-	"hero_0": {
-        "name": "Stanisław Dąbrowksi",     //Imię Nazwisko
-        "class": "Student",             //Klasa (1AT,1BT,1CT)
-        "number": "6",                  //Numer w dzienniku
-        "atributes": [
-            { "atributes_type": "birdthDate", "value": "08-01-2009" },  //Data urodzenia
-            { "atributes_type": "country", "value": "Poland" },         //Państwo
-            { "atributes_type": "city", "value": "Białystok"}           //Miasto
-            { "atributes_type": "power", "value": "1000000000"}                //Moc :) 
-        ]
-    }
-	
+}
 }
