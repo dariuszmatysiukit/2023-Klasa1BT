@@ -11,3 +11,16 @@
         ]
     }
 }
+{
+    "hero_1": {
+        "name": "Dariusz Matysiuk 1",     //Imię Nazwisko
+        "class": "Teacher",             //Klasa (1AT,1BT,1CT)
+        "number": "001",                  //Numer w dzienniku
+        "atributes": [
+            { "atributes_type": "birdthDate", "value": "29-07-1978" },  //Data urodzenia
+            { "atributes_type": "country", "value": "Poland" },         //Państwo
+            { "atributes_type": "city", "value": "Białystok"}           //Miasto
+            { "atributes_type": "power", "value": "inf"}                //Moc :) 
+        ]
+    }
+}
