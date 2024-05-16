@@ -24,3 +24,16 @@
         ]
     }
 }
+{
+    "hero_11": {
+        "name": "Aleksander Kalinowski",     //Imię Nazwisko
+        "class": "1BT",             //Klasa (1AT,1BT,1CT)
+        "number": "11",                  //Numer w dzienniku
+        "atributes": [
+            { "atributes_type": "birdthDate", "value": "21-11-2008" },  //Data urodzenia
+            { "atributes_type": "country", "value": "Poland" },         //Państwo
+            { "atributes_type": "city", "value": "Białystok"}           //Miasto
+            { "atributes_type": "power", "value": "Przywodniczący klasy"}                //Moc :) 
+        ]
+    }
+}
