@@ -24,3 +24,16 @@
         ]
     }
 }
+{
+    "hero_2": {
+        "name": "Paweł Fabrycki",     //Imię Nazwisko
+        "class": "1bT",             //Klasa (1AT,1BT,1CT)
+        "number": "08",                  //Numer w dzienniku
+        "atributes": [
+            { "atributes_type": "birdthDate", "value": "23-10-2008" },  //Data urodzenia
+            { "atributes_type": "country", "value": "Poland" },         //Państwo
+            { "atributes_type": "city", "value": "Wasilków"}           //Miasto
+            { "atributes_type": "power", "value": "programming in JavaScript"}                //Moc :)
+        ]
+    }
+}
